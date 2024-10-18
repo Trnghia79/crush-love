@@ -1,5 +1,5 @@
 const CONFIGDATA = {
-  titleHeader: "From boy khối 1 with luv!",
+  titleHeader: "From boy team 71 with luv!",
   descriptionHeader:
     "Nhân dịp 20/10, đồng an team 71 chúng tớ có món quà nho nhỏ tặng chị và các cậu nè 🥰 Mọi người nhận cho chúng tớ vui nhé^^",
   buttonYes: "Tớ đồng ý",
